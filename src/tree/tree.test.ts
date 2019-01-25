@@ -17,5 +17,5 @@ let arr = [{
 }]
 
 
-const t = Tree.treeByParenfId(arr, 'parentId', 'id');
+const t = Tree.treeByParentId(arr, 'parentId', 'id');
 console.log(JSON.stringify(t));

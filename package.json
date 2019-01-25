@@ -1,6 +1,6 @@
 {
   "name": "util-data",
-  "version": "0.0.1",
+  "version": "0.0.0",
   "description": "make data change more easy",
   "main": "./dist/index.js",
   "dependencies": {},

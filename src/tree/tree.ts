@@ -5,7 +5,7 @@
 
 export class Tree {
   // 根据父子id转换
-  static treeByParenfId(arr: any[], parentField: string, idField: string) {
+  static treeByParentId(arr: any[], parentField: string, idField: string) {
     let tree = arr.filter(item => !item[parentField]);
     let data = arr.filter(item => item[parentField]);
     let obj: any = {};

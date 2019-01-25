@@ -21,6 +21,6 @@ let data = [{
   name: 'ooo'
 }]
 
-const tree = util.Tree.treeByParenfId(data, 'parentId', 'id');
+const tree = util.Tree.treeByParentId(data, 'parentId', 'id');
 console.log(tree);
 ```
