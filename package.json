@@ -1,5 +1,5 @@
 {
-  "name": "util-data",
+  "name": "util-array-tree",
   "version": "0.0.0",
   "description": "make data change more easy",
   "main": "./dist/index.js",
@@ -16,7 +16,7 @@
     "lint": "tslint --project tslint.json",
     "test": "echo \"Error: no test specified\" && exit 1"
   },
-  "keywords": [],
+  "keywords": ["javascript", "array to tree", "数组转树"],
   "author": "bighuangjin <bighuangjin@163.com>",
   "license": "MIT"
 }

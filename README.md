@@ -1,9 +1,9 @@
-# util-data
+# util-array-tree
 make data change more easy, for now, just provide method for data change from array to tree
 
 ## usage
 ```javascript
-const util = require('util-data');
+const util = require('util-array-tree');
 let data = [{
   id: '111',
   parentId: '000',
